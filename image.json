@@ -1,0 +1,7 @@
+{
+    "target": "SNAP/WebPACK_Sim",
+    "streamBytes": 32,
+    "operators": {
+        "colorfilter": "./colorfilter"
+    }
+}

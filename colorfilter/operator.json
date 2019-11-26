@@ -1,0 +1,8 @@
+{
+    "main": "colorfilter",
+    "description": "Convert bitmap to grayscale",
+    "options": {},
+    "devImage": {
+      "streamBytes": 8
+    }
+  }
