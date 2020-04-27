@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   metalfs-dev:
-    image: metalfs/operator-base:webpack
+    image: metalfs/sdk:1-webpack-psl8
     init: true
     command: tail -f /dev/null
     working_dir: /workspace
