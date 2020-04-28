@@ -1,0 +1,4 @@
+{
+    "main": "uppercase",
+    "description": "Transform ASCII strings to uppercase."
+}

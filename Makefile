@@ -1,1 +1,4 @@
-include $(METAL_ROOT)/buildpacks/image/image.mk
+srcs           += uppercase.cpp
+testbench_srcs += testbench.cpp
+
+include $(METAL_ROOT)/buildpacks/hls/hls.mk
